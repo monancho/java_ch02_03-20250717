@@ -58,6 +58,6 @@ public class OperatorTest {
 		if(!(kor > 60 && eng > 60 && math > 60 && sci > 60)) {
 			System.out.println("과락");
 		};
-		
+		//깃 업로드
 	}
 }
